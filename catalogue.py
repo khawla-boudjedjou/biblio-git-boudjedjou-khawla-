@@ -1,1 +1,1 @@
-print("Bibliotheque Unuversitaire -v2.0(Recherche rapide)")
+print("Bibliotheque Unuversitaire - v2.0 (correction + Rcherche)")
